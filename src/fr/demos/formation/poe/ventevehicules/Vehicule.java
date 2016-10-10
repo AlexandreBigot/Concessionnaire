@@ -1,5 +1,6 @@
 package fr.demos.formation.poe.ventevehicules;
 
+// modif 2 pour GIT
 public abstract class Vehicule {
 
 	private Modele modele;
